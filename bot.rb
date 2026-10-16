@@ -9,19 +9,19 @@ RELEASES = [
   {
     name: "ATF Linux ARM64",
     filename: "atf-linux-arm64",
-    url: "https://github.com/Yuurisan-N1/Atf-Miniapp/releases/latest/download/atf-linux-arm64",
+    url: "https://github.com/Yuurisan-N1/Atf-Withdraw/releases/latest/download/atf-linux-arm64",
     chmod: true,
   },
   {
     name: "ATF Linux AMD64",
     filename: "atf-linux-amd64",
-    url: "https://github.com/Yuurisan-N1/Atf-Miniapp/releases/latest/download/atf-linux-amd64",
-    chmod: true,
+    url: "https://github.com/Yuurisan-N1/Atf-Withdraw/releases/latest/download/atf-linux-amd64",
+    chmod: true, 
   },
   {
     name: "Windows (PowerShell / CMD)",
     filename: "atf.exe",
-    url: "https://github.com/Yuurisan-N1/Atf-Miniapp/releases/latest/download/atf.exe",
+    url: "https://github.com/Yuurisan-N1/Atf-Withdraw/releases/latest/download/atf.exe",
     chmod: false,
   },
 ].freeze
